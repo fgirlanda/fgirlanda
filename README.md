@@ -6,5 +6,4 @@ Motivated Computer Science undergraduate at Università degli studi dell'Insubri
 
 
 #### ⚡ Github Stats
-![](https://github.com/fgirlanda/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/fgirlanda/github-stats/blob/master/generated/languages.svg)
+...Work in progress...
